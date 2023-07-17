@@ -963,7 +963,7 @@ Fantastic! Our page has the correct sections and they are perfectly positioned.
 
 ### Final Styling Touches
 
-We will do some final styling touches on our page. This is what want to achieve:
+We will do some final styling touches on our page. This is what we want to achieve:
 
 1. Remove the margins of the body.
 2. Add some space between the content and the borders of the div elements.
