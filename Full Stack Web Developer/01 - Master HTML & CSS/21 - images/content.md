@@ -460,7 +460,7 @@ top-right and bottom-left which have 10px corner size.
 
 ### Images and line height
 
-As we have said before, images are inline elements. If you put text and then and image and then some text, these will appear one next to each other, like if image was part of the text:
+As we have said before, images are inline elements. If you put text and then an image and then some text, these will appear one next to each other, like if image was part of the text:
 
 Write the following HTML page:
 
